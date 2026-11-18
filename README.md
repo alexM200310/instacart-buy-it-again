@@ -22,7 +22,7 @@ This project ranks products by **how often people buy them again** and recommend
 
 ## Results
 
-> _Fill this in after running `src/analyze.py`. Copy the numbers from `outputs/findings.md`._
+> Fill this in after running `src/analyze.py`.
 
 - The top 20 products are reordered **[X]%** of the time, vs. **[Y]%** for the average product.
 - **[N] of 20** products stay in the list when the floor rises to 1,000 purchases.
