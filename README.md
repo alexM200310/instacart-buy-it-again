@@ -67,3 +67,10 @@ All analysis, numbers and the recommendation are written by the team.
 ## Data source
 
 Instacart, "The Instacart Online Grocery Shopping Dataset 2017," via the Kaggle competition *Instacart Market Basket Analysis*.
+
+## .dump File
+
+Instacart data source from above has been loaded and extracted from Postgresql
+
+This Onedrive link should provide access to the file
+https://utsacloud-my.sharepoint.com/:u:/g/personal/mariapatricia_ison_my_utsa_edu/IQAi5Xh9xk57Q5buvncZ2rozAVGhMyQbmGN9i6xLQL8ofQE?e=D4sXqG
