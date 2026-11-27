@@ -31,10 +31,37 @@ This project ranks products by **how often people buy them again** and recommend
 
 ---
 
+## Install
+
+```
+python -m venv .venv
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+## Data load
+
+_To be completed by Morgan: restore the database backup in DBeaver, then run the files in `sql files/`. List the expected row counts._
+
+## Run the analysis
+
+_To be completed by Alex: which file to run, in what order._
+
+## Where results live
+
+_To be completed: map each number in the Results section to its file in `outputs/`._
+
 ## Repo layout
 
 ```
 instacart-buy-it-again/
+├── ai/prompts/       AI prompt, response and team edits
+├── data/             local data only (not committed)
+├── outputs/          generated tables and charts
+├── sql files/        SQL data pulls
+├── src/              Python analysis code
+├── README.md
+└── requirements.txt
 ```
 ---
 
