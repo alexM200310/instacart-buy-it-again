@@ -1,0 +1,14 @@
+# Instacart "Buy It Again" analysis (src/buy_it_again_analysis.ipynb)
+# Tested with Python 3.11-3.13: pandas 2.2 and 3.0, matplotlib 3.9-3.11, seaborn 0.13.
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+
+# PostgreSQL connection (only needed when INSTACART_DB_URL is set)
+sqlalchemy>=2.0
+psycopg[binary]>=3.1
+
+# Running the notebook (Kernel -> Restart & Run All, or jupyter nbconvert --execute)
+jupyter
+ipykernel
